@@ -1,0 +1,121 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "ixftUepVYqDpd95PlZ4NBw=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/root/typescript-docs/.codedoc/content/theme.ts",
+      "hash": "PFnDQNHTkpahi9tAo6w21Q=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "rMIiJe5jQ5BPRGr4Qtr2gw=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "hxqxPyXoAgCri2KonyntAQ=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "GjbJVG8X/216uQns0sUxgw=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "/+ruPLaPGkroJmCq7uLxKw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "CxSobH6dlzhf9WPplvbj1w=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "Ohxk5D1Rbzwl7r+MWkvJrg=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "Fyj46cnOkqQBRK47Q9SoSQ=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "RgBF8hxqE1500ERzpus9MA=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "9Hm695NA2J9AhcuFbeUbQg=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "Uso/k1XIcjypXr47sH7faA=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "opnhsv0WzzGknSnKVlgiiQ=="
+    },
+    {
+      "name": "copyLineLinks",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-links/copy-line-link.js",
+      "hash": "YPPpI3bSjPLLsdndCMErog=="
+    },
+    {
+      "name": "gatherFootnotes",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/footnote/gather-footnotes.js",
+      "hash": "YPIwVY9ZbZ4TD26W+7aOjw=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "mRHW1482Xo/1xMfSFOAbXQ=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "ymxEHFWyjK7WKNhvxvK4oA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "DFsJytRlyzzviXYBRDdU3Q=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "fEQOfMwdab7ABMsHSB5lVA=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "OpXXB3/nDgYHB6DHa3qjIA=="
+    },
+    {
+      "name": "TabSelector",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/tabs/selector.js",
+      "hash": "wBekpWaXVZdcAcaj5YWWNQ=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "+Xva5HihJaLq0hyAKiua9A=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/root/typescript-docs/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "rC/QWwNQcX5ZIh7/qMc6Ng=="
+  }
+}

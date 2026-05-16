@@ -1,0 +1,28 @@
+{
+  "name": "typescript-docs",
+  "version": "1.0.0",
+  "description": "Advanced TypeScript Documentation — Beginner to Pro: index.ts, constructors, interfaces, types, routes, API, Jest tests, and more",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masterofowls/typescript-docs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masterofowls/typescript-docs/issues"
+  },
+  "homepage": "https://github.com/Masterofowls/typescript-docs#readme",
+  "devDependencies": {
+    "ts-loader": "^9.5.7",
+    "typescript": "^6.0.3",
+    "webpack": "^5.106.2"
+  }
+}
